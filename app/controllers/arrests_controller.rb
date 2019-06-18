@@ -1,0 +1,2 @@
+class ArrestsController < ApplicationController
+end
